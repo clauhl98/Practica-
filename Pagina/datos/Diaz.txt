@@ -1,0 +1,12 @@
+
+	Nombre: Geovanni Enrique
+			Apellido Paterno: Diaz
+			Apellido Materno: Perez
+			Carrera: ISC
+			Turno: Matutino
+			Matricula: dad
+			Teléfono: 5548596230
+			Correo electrónico: kkkkk.mmm@gmail.com
+			Sexo: Masculino
+			Curso de preferencia: Voleyball
+	
